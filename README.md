@@ -1,2 +1,0 @@
-# altatum
-My personal repository
